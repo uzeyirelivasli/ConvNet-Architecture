@@ -2,3 +2,5 @@ data/
 *.zip
 .ipynb_checkpoints/
 __pycache__/
+models/best_model.pth
+models/best_model_10.pth
